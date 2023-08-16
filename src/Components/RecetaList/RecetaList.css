@@ -1,0 +1,17 @@
+.section_receta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section_receta p {
+    color: #d0d3d4;
+    font-weight: bold;
+}
+
+.receta_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 0 20px 20px 20px;
+}
